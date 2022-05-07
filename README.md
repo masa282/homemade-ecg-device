@@ -27,13 +27,13 @@ I implemented circuit on a breadborad for 1-lead ECG and connected to M5stack.
 
 ### 2.) AI for diagnosis
 
-I used CNN-base model. Please check [main.ipynb](https://github.com/masa282/homemade-ecg-checker/blob/master/src/main.ipynb)
+I used CNN-base model. Please check [main.ipynb](/src/main.ipynb)
 
 The label categories of this model
 
 ![label.png](/img/label.png)
 
-Please check [label_description.ipynb](https://github.com/masa282/homemade-ecg-checker/blob/master/src/label_description.ipynb) 
+Please check [label_description.ipynb](/src/label_description.ipynb) 
 
 
 Thank you for reading!
