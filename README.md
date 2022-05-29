@@ -12,7 +12,8 @@ First of all, I collect ECG data with my homemade ECG-device which is connected 
 I implemented circuit on a breadborad for 1-lead ECG and connected to M5stack.
 
 
-![ecg_device.gif](/img/ecg_device.gif)
+↓ It might take a time to load a gif file of the device recording my ECG data.
+![ecg_device.gif](/img/ecg_device_compressed.gif)
 
 **Spesicication**
 - Analog filter: Lowpass 0.3-30 Hz
